@@ -1,3 +1,3 @@
 export const Settings = {
-  serverUri: "http://localhost:5000"
+  serverUri: "https://localhost:5001"
 }
